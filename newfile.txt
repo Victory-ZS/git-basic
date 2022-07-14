@@ -3,3 +3,7 @@ First create
 update1
 
 update2
+
+add：添加文件到暂存区。
+commit：将暂存区内容添加到仓库中。
+push：上传远程代码并合并
